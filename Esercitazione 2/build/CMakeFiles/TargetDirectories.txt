@@ -1,0 +1,5 @@
+/home/samuele/Desktop/LAB IAGI 23/Es 1-3/Esercitazione 2/build/CMakeFiles/rebuild_cache.dir
+/home/samuele/Desktop/LAB IAGI 23/Es 1-3/Esercitazione 2/build/CMakeFiles/edit_cache.dir
+/home/samuele/Desktop/LAB IAGI 23/Es 1-3/Esercitazione 2/build/CMakeFiles/test1.dir
+/home/samuele/Desktop/LAB IAGI 23/Es 1-3/Esercitazione 2/build/CMakeFiles/test0.dir
+/home/samuele/Desktop/LAB IAGI 23/Es 1-3/Esercitazione 2/build/CMakeFiles/uwimg++.dir

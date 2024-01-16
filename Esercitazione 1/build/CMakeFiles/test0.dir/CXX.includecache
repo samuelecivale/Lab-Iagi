@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/samuele/Desktop/LAB IAGI 23/Es 1-3/Esercitazione 1/src/image.h
+cassert
+-
+cstring
+-
+cmath
+-
+algorithm
+-
+string
+-
+vector
+-
+stdexcept
+-
+utils.h
+/home/samuele/Desktop/LAB IAGI 23/Es 1-3/Esercitazione 1/src/utils.h
+
+/home/samuele/Desktop/LAB IAGI 23/Es 1-3/Esercitazione 1/src/test/test0.cpp
+../image.h
+/home/samuele/Desktop/LAB IAGI 23/Es 1-3/Esercitazione 1/src/image.h
+../utils.h
+/home/samuele/Desktop/LAB IAGI 23/Es 1-3/Esercitazione 1/src/utils.h
+string
+-
+
+/home/samuele/Desktop/LAB IAGI 23/Es 1-3/Esercitazione 1/src/utils.h
+vector
+-
+string
+-
+chrono
+-
+thread
+-
+mutex
+-
+

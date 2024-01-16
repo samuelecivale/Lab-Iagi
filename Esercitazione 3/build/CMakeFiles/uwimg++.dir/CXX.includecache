@@ -1,0 +1,154 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/samuele/Desktop/LAB IAGI 23/Es 1-3/Esercitazione 3/src/edge_detection.cpp
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+math.h
+-
+assert.h
+-
+image.h
+/home/samuele/Desktop/LAB IAGI 23/Es 1-3/Esercitazione 3/src/image.h
+
+/home/samuele/Desktop/LAB IAGI 23/Es 1-3/Esercitazione 3/src/filter_image.cpp
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+math.h
+-
+assert.h
+-
+iostream
+-
+image.h
+/home/samuele/Desktop/LAB IAGI 23/Es 1-3/Esercitazione 3/src/image.h
+
+/home/samuele/Desktop/LAB IAGI 23/Es 1-3/Esercitazione 3/src/image.h
+cassert
+-
+cstring
+-
+cmath
+-
+algorithm
+-
+string
+-
+vector
+-
+stdexcept
+-
+iostream
+/home/samuele/Desktop/LAB IAGI 23/Es 1-3/Esercitazione 3/src/iostream
+utils.h
+/home/samuele/Desktop/LAB IAGI 23/Es 1-3/Esercitazione 3/src/utils.h
+
+/home/samuele/Desktop/LAB IAGI 23/Es 1-3/Esercitazione 3/src/load_image.cpp
+cstdio
+-
+cstdlib
+-
+string
+-
+image.h
+/home/samuele/Desktop/LAB IAGI 23/Es 1-3/Esercitazione 3/src/image.h
+stb_image.h
+/home/samuele/Desktop/LAB IAGI 23/Es 1-3/Esercitazione 3/src/stb_image.h
+stb_image_write.h
+/home/samuele/Desktop/LAB IAGI 23/Es 1-3/Esercitazione 3/src/stb_image_write.h
+
+/home/samuele/Desktop/LAB IAGI 23/Es 1-3/Esercitazione 3/src/process_image.cpp
+cstdio
+-
+cstring
+-
+cassert
+-
+cmath
+-
+iostream
+-
+image.h
+/home/samuele/Desktop/LAB IAGI 23/Es 1-3/Esercitazione 3/src/image.h
+
+/home/samuele/Desktop/LAB IAGI 23/Es 1-3/Esercitazione 3/src/stb_image.h
+stb_image.h
+/home/samuele/Desktop/LAB IAGI 23/Es 1-3/Esercitazione 3/src/stb_image.h
+stdio.h
+-
+stdarg.h
+-
+stddef.h
+-
+stdlib.h
+-
+string.h
+-
+limits.h
+-
+math.h
+-
+stdio.h
+-
+assert.h
+-
+stdint.h
+-
+emmintrin.h
+-
+intrin.h
+-
+arm_neon.h
+-
+
+/home/samuele/Desktop/LAB IAGI 23/Es 1-3/Esercitazione 3/src/stb_image_write.h
+stdio.h
+-
+stdarg.h
+-
+stdlib.h
+-
+string.h
+-
+math.h
+-
+assert.h
+-
+
+/home/samuele/Desktop/LAB IAGI 23/Es 1-3/Esercitazione 3/src/utils.cpp
+cstdio
+-
+cstdlib
+-
+cstring
+-
+utils.h
+/home/samuele/Desktop/LAB IAGI 23/Es 1-3/Esercitazione 3/src/utils.h
+image.h
+/home/samuele/Desktop/LAB IAGI 23/Es 1-3/Esercitazione 3/src/image.h
+
+/home/samuele/Desktop/LAB IAGI 23/Es 1-3/Esercitazione 3/src/utils.h
+vector
+-
+string
+-
+chrono
+-
+thread
+-
+mutex
+-
+
